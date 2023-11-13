@@ -3,7 +3,13 @@
 
 let Home = () => {
      return(
+        <>
+        
         <h1> heading </h1>
+
+        
+        </>
+        
      )
 }
 
