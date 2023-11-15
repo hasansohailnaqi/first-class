@@ -9,7 +9,7 @@ let Home = () => {
         <div>
         
         <h1> heading </h1>
-
+        <Link href="about">hasan</Link>  
         
         </div>
         
