@@ -1,3 +1,22 @@
+
+export const generateStaticParams = () => {
+    return[
+        {name: "hamza"
+    },
+
+    { name: "hamzo"
+
+    },
+
+    { name: "hamzii"
+
+    },
+
+    ]
+}
+
+
+
 const About = (props:any) => {
     console.log()
     return (
